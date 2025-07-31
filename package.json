@@ -1,6 +1,6 @@
 {
   "name": "zyx-mvc",
-  "version": "0.20.17",
+  "version": "0.20.18",
   "description": "Implements express MVC application",
   "main": "index.js",
   "scripts": {
