@@ -1,6 +1,6 @@
 {
   "name": "zyx-mvc",
-  "version": "0.20.20",
+  "version": "0.20.21",
   "description": "Implements express MVC application",
   "main": "index.js",
   "scripts": {
@@ -33,10 +33,7 @@
     "helmet": "^8.1.0",
     "hpp": "^0.2.3",
     "morgan": "^1.10.0",
-    "zyx-base": "^0.20.16",
     "zyx-env": "^0.21.4",
-    "zyx-mongodb": "^0.20.11",
-    "zyx-nodemailer": "^0.20.6",
     "zyx-schema": "^0.20.5",
     "zyx-system": "^0.20.4"
   }
